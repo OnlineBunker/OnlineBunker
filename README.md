@@ -1,5 +1,38 @@
-# 💫 About Me:
-## 👋 Hey, I'm Yash Dhankhar<br><br>> *First-year CS & AI student building production-grade GenAI apps — not just learning, shipping.*<br><br>I'm a **Generative AI developer** from New Delhi, currently pursuing B.Tech in Computer Science & AI <br>at Newton School of Technology, Rishihood University (2024–2028).<br><br>My focus is on building **full-stack LLM-powered applications** — RAG pipelines, agentic systems, <br>and prompt-engineered products that go from idea to deployed URL.<br><br>---<br><br>### 🚀 What I've Built<br><br>- 🧠 **[Lumi](https://lumi-wine-gamma.vercel.app/)** — RAG-powered PDF agent with page-level citations, <br>  ChromaDB vector store, and real-time streaming responses<br>- 💡 **[Explainify](https://explainify-drab.vercel.app/)** — Adaptive AI explainer that tailors any concept <br>  to Kid / Student / Expert level using multi-turn Gemini prompt chains<br>- 📊 **[Churn Prediction + Agentic Retention](https://churn-prediction-web.streamlit.app)** — ML model <br>  (ROC-AUC: 0.9037) + 3-node LangGraph pipeline with Groq LLM for real-time retention strategy generation<br><br>---<br><br>### 🛠️ My Stack<br><br>**GenAI:** Gemini API · Groq · LangChain · LangGraph · RAG · FAISS · ChromaDB  <br>**Web:** React.js · Node.js · Express.js · FastAPI · Tailwind CSS · Streamlit  <br>**ML:** Scikit-learn · Pandas · NumPy · Plotly  <br>**Deploy:** Vercel · Render · Streamlit Cloud<br><br>---<br><br>### 🎯 Currently<br><br>- 📚 Studying @ Newton School of Technology<br>- 🔭 Building AI products that solve real problems<br>- 🏆 National Yoga Champion · NDA-153 Recommended · National Baseball Player<br>- 📬 Open to **GenAI internship opportunities** — reach me at yash.dhankhar06@gmail.com
+# 💫 About Me
+
+## 👋 Hey, I'm Yash Dhankhar
+
+> *First-year CS & AI student building production-grade GenAI apps — not just learning, shipping.*
+
+I'm a **Generative AI developer** from New Delhi, currently pursuing B.Tech in Computer Science & AI at Newton School of Technology, Rishihood University (2024–2028).
+
+My focus is on building **full-stack LLM-powered applications** — RAG pipelines, agentic systems, and prompt-engineered products that go from idea to deployed URL.
+
+---
+
+### 🚀 What I've Built
+
+- 🧠 **[Lumi](https://lumi-wine-gamma.vercel.app/)** — RAG-powered PDF agent with page-level citations, ChromaDB vector store, and real-time streaming responses
+- 💡 **[Explainify](https://explainify-drab.vercel.app/)** — Adaptive AI explainer that tailors any concept to Kid / Student / Expert level using multi-turn Gemini prompt chains
+- 📊 **[Churn Prediction + Agentic Retention](https://churn-prediction-web.streamlit.app)** — ML model (ROC-AUC: 0.9037) + 3-node LangGraph pipeline with Groq LLM for real-time retention strategy generation
+
+---
+
+### 🛠️ My Stack
+
+**GenAI:** Gemini API · Groq · LangChain · LangGraph · RAG · FAISS · ChromaDB  
+**Web:** React.js · Node.js · Express.js · FastAPI · Tailwind CSS · Streamlit  
+**ML:** Scikit-learn · Pandas · NumPy · Plotly  
+**Deploy:** Vercel · Render · Streamlit Cloud
+
+---
+
+### 🎯 Currently
+
+- 📚 Studying @ Newton School of Technology
+- 🔭 Building AI products that solve real problems
+- 🏆 National Yoga Champion · NDA-153 Recommended · National Baseball Player
+- 📬 Open to **GenAI internship opportunities** — reach me at yash.dhankhar06@gmail.com
 
 
 ## 🌐 Socials:
